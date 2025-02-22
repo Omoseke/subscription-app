@@ -1,0 +1,7 @@
+History
+
+ git clone https://github.com/Omoseke/subscription-app.git
+   29  cd subscription-app/
+   30  npx express-generator --no-view --git ./
+   31  npm install --save-dev nodemon
+   32  npx eslint --init
