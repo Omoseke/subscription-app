@@ -5,3 +5,5 @@ History
    30  npx express-generator --no-view --git ./
    31  npm install --save-dev nodemon
    32  npx eslint --init
+   npm install mongodb
+   31  npm install mongoose
